@@ -1,4 +1,4 @@
-# caloriesCalculator_using_Qt
+# Calories Calculator Using Qt
 
 ![caloriesCalculator](images/caloriesCalculator.png)
 
